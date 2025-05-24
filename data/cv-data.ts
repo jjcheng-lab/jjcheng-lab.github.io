@@ -16,9 +16,9 @@ export const personalInfo = {
     "Catalytic Medicine",
   ],
   academicMetrics: {
-    citations: "2,500+",
-    publications: "50+",
-    patents: "15+",
+    citations: "1,700+",
+    publications: "40+",
+    patents: "5+",
   },
   researchStatement:
     "My research focuses on developing innovative nanozyme-based therapeutic strategies for cancer treatment, with particular emphasis on single-atom catalysts and ferroptosis-mediated tumor therapy. Our work bridges fundamental nanoscience with clinical applications in oncology.",
@@ -280,7 +280,7 @@ export const labMembers = [
   {
     name: "Shijie Yao",
     position: "Ph.D. student",
-    image: "/lijiaping.jpg",
+    image: "/yaoshijie.jpg",
     email: "shijie.yao@seu.edu.cn",
     research: "Nanotechnology, Cancer therapeutics",
   },
