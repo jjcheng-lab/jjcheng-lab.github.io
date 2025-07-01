@@ -413,7 +413,7 @@ export const labMembers = [
   {
     name: "Yejing Chen",
     position: "Lab secretary",
-    image: "/chenyanjing.jpg",
+    image: "/chenyejing.jpg",
     email: "yejing.chen@seu.edu.cn",
     research: "Administrative support, Documentation",
   },
