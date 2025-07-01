@@ -223,18 +223,123 @@ export const selectedPublications = [
   {
     authors:
       "Junjie Cheng#*, Li Li#, Duo Jin#, Yi Dai, Manman Liu, Wenxin Yu, Jiaji Yu, Yongfu Sun*, Xiaoyuan Chen* and Yangzhong Liu*",
-    title: "Boosting Ferroptotic Therapy with Iridium Single Atom Nanocatalyst in Ultra-low Metal Content",
+    title:
+      "Boosting Ferroptotic Therapy with Iridium Single Atom Nanocatalyst in Ultra-low Metal Content",
     journal: "Adv. Mater., 2023, 2210037",
     impact: "Highly cited paper，IF：27.4",
   },
   {
     authors:
       "Junjie Cheng#*, Li Li#, Duo Jin#, Yajie Zhang, Wenxin Yu, Jiaji Yu, Jianhua Zou, Yi Dai, Yang Zhu, Manman Liu, Miya Zhang, Yongfu Sun*, Yangzhong Liu* and Xiaoyuan Chen*",
-    title: "A non-metal single atom nanozyme for cutting off the energy and reducing power of tumors",
+    title:
+      "A non-metal single atom nanozyme for cutting off the energy and reducing power of tumors",
     journal: "Angew. Chem. Int. Ed., 2024, e202319982",
     impact: "IF：16.1",
   },
-]
+  {
+    authors:
+      "Junjie Cheng#*, Yang Zhu#, Yi Dai#, Li Li, Miya Zhang, Duo Jin, Manman Liu, Jiaji Yu, Wenxin Yu, Dan Su, Jianhua Zou*, Xiaoyuan Chen* and Yangzhong Liu*",
+    title:
+      "Gas-Mediated Tumor Energy Remodeling for Sensitizing Mild Photothermal Therapy",
+    journal: "Angew. Chem. Int. Ed., 2023, e202304312",
+    impact: "IF：16.1",
+  },
+  {
+    authors:
+      "Junjie Cheng#, Yuanbo Pan#, Jianhua Zou, Miya Zhang, Yang Zhu*, Yangzhong Liu*, Xiaoyuan Chen*",
+    title: "Bioengineering nanomaterials for tumor therapy and anti-metastasis",
+    journal: "Prog. Mater. Sci., 2025, 148, 101375",
+    impact: "IF：33.6",
+  },
+  {
+    authors:
+      "Junjie Cheng#, Yang Zhu#, Xin Xing#, Jianmin Xiao, Hui Chen, Hongwei Zhang, Dan Wang, Yuanyuan Zhang, Guilong Zhang*, Zhengyan Wu*, Yangzhong Liu*",
+    title:
+      "Manganese-deposited iron oxide promotes tumor-responsive ferroptosis that synergizes the apoptosis of cisplatin",
+    journal: "Theranostics, 2021, 11, 1",
+    impact: "IF：12.4",
+  },
+  {
+    authors:
+      "Tiantian Wu*, Pengxian Zhao, Pengcheng Pan, Ziqian Zhao*, Yang Zhu*, Junjie Cheng*",
+    title:
+      "Biofilm-disrupting DNA nanomedicines for targeted elimination of resistant wound microbiota",
+    journal: "J. Control. Release, 2025, 113618",
+    impact: "",
+  },
+  {
+    authors:
+      "Yuanbo Pan#, Junjie Cheng#, Yang Zhu*, Jianmin Zhang*, Wenpei Fan*, Xiaoyuan Chen*",
+    title: "Immunological Nanomaterials to Combat Cancer Metastasis",
+    journal: "Chem. Soc. Rev., 2024,53, 6399-6444",
+    impact: "IF：40.4",
+  },
+  {
+    authors:
+      "Yang Zhu#, Wenyu Wang#, Junjie Cheng#, Chao Zhao, Yi Dai, Manman Liu, Jianing Yu, Chengming Wang, Huijuan Wang, Sicong Wang, Yunteng Qu, Yuen Wu*, Yangzhong Liu*",
+    title:
+      "Stimuli-Responsive Manganese Single-atom Nanozyme for Tumor Therapy via Integrated Cascade Reactions",
+    journal:
+      "Angew. Chem. Int. Ed., 2021, 60, 9480-9488 (Highly cited paper & Hot paper)",
+    impact: "IF：16.1",
+  },
+  {
+    authors:
+      "Manman Liu #, Duo Jin #, Wenxin Yu, Jiaji Yu, Kaiming Cao, Junjie Cheng*, Xiaohu Zheng, Andrew Wang, Yangzhong Liu*",
+    title:
+      "Enhancing Tumor Immunotherapy by Multivalent anti-PD-L1 Nanobody Assembled via Ferritin Nanocage",
+    journal: "Adv. Sci., 2024, 2308248",
+    impact: "IF：14.3",
+  },
+  {
+    authors:
+      "Jianhua Zou, Zheng Li, Yang Zhu, Yucen Tao, Qing You, Fangfang Cao, Qinghe Wu, Min Wu*, Junjie Cheng*, Jianwei Zhu*, Xiaoyuan Chen*",
+    title:
+      "pH/GSH dual responsive nanosystem for nitric oxide generation enhanced type I photodynamic therapy",
+    journal: "Bioact. Mater., 2024, 34, 414-421",
+    impact: "IF：18",
+  },
+  {
+    authors:
+      "Duo Jin, Manman Liu, Meng Zhang, Wenxin Yu, Jiaji Yu, Aizong Shen*, Junjie Cheng*, Yangzhong Liu*",
+    title:
+      "Protein Encapsulation of Nanocatalysts: a Feasible Approach to Facilitate Catalytic Theranostics",
+    journal: "Adv. Drug Deliv. Rev., 2023, 192, 114648",
+    impact: "IF：16.1",
+  },
+  {
+    authors:
+      "Yang Zhu, Duo Jin, Manman Liu, Yi Dai, Li Li, Xinwei Zheng, Lulu Wang, Aizong Shen*, Jianing Yu, Sisi Wu, Yun Wu, Kai Zhong, Junjie Cheng*, Yangzhong Liu*",
+    title:
+      "Oxygen Self-supply Engineering-ferritin for the Relief of Hypoxia in Tumor and the Enhancement of Photodynamic Therapy Efficacy",
+    journal: "Small, 2022, 18(15): 2200116 (Highly cited paper)",
+    impact: "IF：13",
+  },
+  {
+    authors:
+      "Yang Zhu, Yaxin Liao, Jianhua Zou, Junjie Cheng*, Yuanbo Pan*, Lisen Lin*, Xiaoyuan Chen*",
+    title:
+      "Engineering Single-atom Nanozymes for Catalytic Biomedical Applications",
+    journal: "Small, 2023, 2300750",
+    impact: "IF：13",
+  },
+  {
+    authors:
+      "Yang Zhu#, Yuanbo Pan#, Zhengxi Guo, Duo Jin, Wenyu Wang, Manman Liu, Mingxi Zong, Xinwei Zheng,* Yun Wu, Lulu Wang, Changlin Tian,* Junjie Cheng* and Yangzhong Liu*",
+    title:
+      "Photothermal Enhanced and Tumor Microenvironment Responsive-Nanozyme for Amplified Cascade Enzyme Catalytic Therapy",
+    journal: "Adv. Healthc. Mater., 2023, 2202198",
+    impact: "IF：10.0",
+  },
+  {
+    authors:
+      "Yuewu Zhao#, Junjie Cheng#, Zhen Li, Jine Wang* and Xiaoyuan Chen*",
+    title:
+      "Nanozymes in Biomedical Applications: Innovations Originated From Metal-Organic Frameworks",
+    journal: "Adv. Healthc. Mater., 2024, 2402066",
+    impact: "IF：10.0",
+  },
+];
 
 export const grants = [
   {
